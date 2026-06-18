@@ -34,3 +34,50 @@ class MustaphaNouiMehidi {
     "Microcontrollers (Arduino, ESP)"
   };
 }
+
+
+## 🔥 Highlights
+
+- 🚀 Building scalable **Web Applications, Mobile Apps, and SaaS** solutions
+- 🤖 Designing smart **Automations and Workflows** using **n8n**
+- 👨‍💻 Writing clean logic using modern languages like **C/C++, Dart, and JS/TS**
+- ⚙️ Exploring **Embedded Systems** and hardware integration
+- 🧩 Bridging the gap between **Software platforms, Hardware devices, and APIs**
+
+---
+
+## 🧰 Tech Toolbox
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,arduino,js,ts,dart,flutter,react,nodejs,python,vscode,github,git" />
+</p>
+
+---
+
+# 📊 GitHub Stats & Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mustaphanouimehidi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mustaphanouimehidi&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustaphanouimehidi&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="97%" />
+</p>
+
+---
+
+## ⚙️ My Development Focus
+
+- ✅ **App & Web Development** (Flutter, React)
+- ✅ **SaaS & Backend Architecture**
+- ✅ **Workflow Automation** (using n8n)
+- ✅ **Embedded Systems & IoT** (Arduino, ESP, C/C++)
+- ✅ Continuous learning and full-stack problem-solving
+
+▶️ Check it out: [**GitHub - Mustapha Noui Mehidi**](https://github.com/mustaphanouimehidi)
+
+---
+
+## ⚡️ Motto
+
+> **“Building scalable software, smart hardware, and seamless automations, one line of code at a time.”**
