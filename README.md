@@ -1,11 +1,8 @@
-
-
 <h1 align="center">Hi, I'm Mustapha Noui Mehidi 👋</h1>
 <h3 align="center">Software & App Developer 💻 | SaaS Builder 🚀 | Embedded Systems & Automation ⚙️</h3>
 
 <p align="center">
-  <a href="nouimehidi.mustapha@gmail.com
-"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="nouimehidi.mustapha@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/mustaphanouimehidi"><img src="https://img.shields.io/badge/Mustapha%20Noui%20Mehidi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/mustaphanouimehidi"><img src="https://img.shields.io/badge/GitHub-mustaphanouimehidi-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
