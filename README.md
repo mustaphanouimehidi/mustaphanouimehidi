@@ -5,27 +5,13 @@
 
 <table border="0" width="100%">
   <tr>
-    <td width="30%" align="center">
-      <img src="https://github.com/mustaphanouimehidi.png" width="180" height="180" alt="Mustapha Noui Mehidi Profile" style="border-radius: 50%;">
-      <h3>Mustapha Noui Mehidi</h3>
-      <p>Building Software, SaaS & Smart Hardware</p>
-      <a href="https://github.com/mustaphanouimehidi?tab=followers">
-        <img src="https://img.shields.io/github/followers/mustaphanouimehidi?label=Followers&style=for-the-badge&logo=github&logoColor=white" alt="Followers">
-      </a>
+    <td width="50%" valign="top" align="center">
+      <h4>📈 GitHub Metrics</h4>
+      <img src="https://github-readme-stats.vercel.app/api?username=mustaphanouimehidi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=33A2FF&text_color=C9D1D9&icon_color=33A2FF" alt="GitHub Stats" width="95%">
     </td>
-    <td width="70%">
-      <table border="0" width="100%">
-        <tr>
-          <td width="50%" valign="top">
-            <h4>📈 GitHub Metrics</h4>
-            <img src="https://github-readme-stats.vercel.app/api?username=mustaphanouimehidi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=33A2FF&text_color=C9D1D9&icon_color=33A2FF" alt="GitHub Stats" width="100%">
-          </td>
-          <td width="50%" valign="top">
-            <h4>🔥 Contribution Streak</h4>
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=mustaphanouimehidi&theme=tokyonight&hide_border=true&background=0D1117&ring=33A2FF&fire=33A2FF&currStreakNum=C9D1D9" alt="GitHub Streak" width="100%">
-          </td>
-        </tr>
-      </table>
+    <td width="50%" valign="top" align="center">
+      <h4>🔥 Contribution Streak</h4>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mustaphanouimehidi&theme=tokyonight&hide_border=true&background=0D1117&ring=33A2FF&fire=33A2FF&currStreakNum=C9D1D9" alt="GitHub Streak" width="95%">
     </td>
   </tr>
 </table>
