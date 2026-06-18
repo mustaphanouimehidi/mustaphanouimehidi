@@ -33,9 +33,6 @@ class MustaphaNouiMehidi {
     "Supabase & Databases",
     "Microcontrollers (Arduino, ESP)"
   };
-}
-
-
 ## 🔥 Highlights
 
 - 🚀 Building scalable **Web Applications, Mobile Apps, and SaaS** solutions
@@ -81,3 +78,6 @@ class MustaphaNouiMehidi {
 ## ⚡️ Motto
 
 > **“Building scalable software, smart hardware, and seamless automations, one line of code at a time.”**
+}
+
+
