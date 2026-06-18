@@ -22,7 +22,23 @@
   <tr>
     <td width="50%" valign="top">
       <h3>💻 Most Used Languages</h3>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustaphanouimehidi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=33A2FF&text_color=C9D1D9" alt="Top Languages" width="100%">
+      
+      <p><b>🌐 SaaS & Web Dev:</b><br>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /> 
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /></p>
+      
+      <p><b>📱 App Development:</b><br>
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" /></p>
+      
+      <p><b>⚙️ Embedded & Hardware:</b><br>
+      <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" /> 
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" /></p>
+      
+      <p><b>🤖 Automation & Scripting:</b><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /></p>
+
+      <br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustaphanouimehidi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=33A2FF&text_color=C9D1D9" alt="Dynamic Top Languages" width="100%">
     </td>
     <td width="50%" valign="top">
       <h3>⚡ Development Focus</h3>
