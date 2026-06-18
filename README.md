@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Mustapha Noui Mehidi 👋</h1>
 <h3 align="center">Software & App Developer 💻 | SaaS Builder 🚀 | Embedded Systems & Automation ⚙️</h3>
 
+<a href="mailto:nouimehidi.mustapha@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
 ---
 
 <table border="0" width="100%">
