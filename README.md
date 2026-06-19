@@ -24,15 +24,19 @@
     <a href="https://azure.microsoft.com/en-us/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
     <a href="https://cloud.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google cloud" width="40" height="40"/> </a>
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+    <a href="https://wordpress.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="40" height="40"/> </a>
+    <a href="https://www.shopify.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/shopify/shopify-original.svg" alt="shopify" width="40" height="40"/> </a>
 </p>
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I'm a Fullstack Developer
+- :computer: I'm a Fullstack Developer and i'm doing android apps -sometimes-
 - :hourglass_flowing_sand: Exploring Google Cloud & Microsoft Azure
 - :rocket: Always ready to collaborate for Dev Experiments
 - :briefcase: Building **Vyzaryz Tech Studio**, focusing on agency branding and professional client portfolios
 - :hospital: Architecting and developing **ClinicOS**, a dedicated medical software solution
+- :shopping_cart: Crafting high-performance E-commerce and CMS solutions using **WordPress** & **Shopify**
+- :chart_with_upwards_trend: Focusing on delivering top-tier freelance projects and client services on **Fiverr**
 
 <br>
 
