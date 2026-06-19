@@ -1,68 +1,44 @@
-<h1 align="center">Hi, I'm Mustapha Noui Mehidi 👋</h1>
-<h3 align="center">Software & App Developer 💻 | SaaS Builder 🚀 | Embedded Systems & Automation ⚙️</h3>
+<h2 align="left">
+ <abc>
+  <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
+  <br> I'm Mustapha Nouimehidi, Full Stack Web Developer :computer:<br>
+  <br>
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+ </abc>
+</h2> 
+<h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
+<p align="left">
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+    <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+    <a href="https://webpack.js.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack" width="40" height="40"/> </a>
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+    <a href="https://www.gatsbyjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a>
+      <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+    <a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+    <a href="https://azure.microsoft.com/en-us/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
+ <a href="https://cloud.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google cloud" width="40" height="40"/> </a>
+ <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+    </p>
 
+<h2 align="left">👨🏻‍💻 About Me:</h2>
 
----
+- :computer: I'm a Fullstack Developer, currently exploring Web3 Space
+- :hourglass_flowing_sand: Exploring Google Cloud & Microsoft Azure
+- :rocket: Always ready to collaborate for Dev Experiments
+- :man_technologist: Former Project Lead Intern at GirlScript Foundation
+- :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
+- :trophy: Grand Finalist of "Smart India Hackathon 2019" - Software Edition
+- :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
 
-<table border="0" width="100%">
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <h4>📈 GitHub Metrics</h4>
-      <img src="https://github-readme-stats.vercel.app/api?username=mustaphanouimehidi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=33A2FF&text_color=C9D1D9&icon_color=33A2FF" alt="GitHub Stats" width="95%">
-    </td>
-    <td width="50%" valign="top" align="center">
-      <h4>🔥 Contribution Streak</h4>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mustaphanouimehidi&theme=tokyonight&hide_border=true&background=0D1117&ring=33A2FF&fire=33A2FF&currStreakNum=C9D1D9" alt="GitHub Streak" width="95%">
-    </td>
-  </tr>
-</table>
+<h2 align="left">:heart: Let's get connected:</h2>
 
----
-
-<table border="0" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>💻 Most Used Languages</h3>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustaphanouimehidi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=33A2FF&text_color=C9D1D9" alt="Top Languages" width="100%">
-    </td>
-    <td width="50%" valign="top">
-      <h3>⚡ Development Focus</h3>
-      <ul>
-        <li>🚀 <b>App & Web Dev:</b> Building scalable apps and responsive UIs.</li>
-        <li>🌐 <b>SaaS Architecture:</b> Developing robust backend solutions.</li>
-        <li>🤖 <b>Automation:</b> Streamlining workflows using n8n.</li>
-        <li>⚙️ <b>Embedded Systems:</b> C/C++ firmware & IoT integration.</li>
-        <li>🧩 <b>Problem Solving:</b> Bridging software APIs with hardware.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-<h2 align="center">🧰 Languages and Tools</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
-  <img src="https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
-  <img src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS">
-  <br><br>
-  <img src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="NextJS">
-  <img src="https://img.shields.io/badge/supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
-  <img src="https://img.shields.io/badge/n8n-%23EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
-  <img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <br><br>
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
-  <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</p>
-
-
-
----
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/)](https://www.linkedin.com/) 
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/)](https://twitter.com/) 
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/)](https://www.facebook.com/) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/)](https://www.instagram.com/)
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-blueviolet?style=flat-square&logo=appveyor&logoColor=white&link=https://github.com/mustaphanouimehidi)](https://github.com/mustaphanouimehidi)
