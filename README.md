@@ -42,7 +42,7 @@
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/)]([https://www.linkedin.com/](https://www.linkedin.com/in/mustapha-noui-mehidi-517781292/)) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/](https://www.linkedin.com/in/mustapha-noui-mehidi-517781292/))]([https://www.linkedin.com/](https://www.linkedin.com/in/mustapha-noui-mehidi-517781292/)) 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/)](https://twitter.com/) 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/)](https://www.facebook.com/) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/)](https://www.instagram.com/)
